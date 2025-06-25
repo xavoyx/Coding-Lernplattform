@@ -1,4 +1,3 @@
-```markdown
 # 🧠 Coding Lernplattform
 
 Interaktive Lernplattform mit React, Tailwind CSS & Markdown.
@@ -18,4 +17,3 @@ Einfach `index.html` im Browser öffnen – kein Server nötig.
 
 ## 📄 Lizenz
 MIT © 2025 Xavoyx
-```
